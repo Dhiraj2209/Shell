@@ -29,7 +29,7 @@ determine_class() {
 }
 
 # Input
-read -p "Enter Your name : " name
+read -p "Enter name of Student : " name
 read -p "Enter marks for OS : " subject1
 read -p "Enter marks for OOP : " subject2
 read -p "Enter marks for DM : " subject3
